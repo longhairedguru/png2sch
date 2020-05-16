@@ -1,0 +1,2553 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title "32_BG_PIXEL_SHIFTER"
+Date ""
+Rev ""
+Comp ""
+Comment1 "Converted from 32_BG_PIXEL_SHIFTER.png"
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+Text GLabel 2375  625  0    50   Input ~ 0
+VYPO
+Text GLabel 3725  700  2    50   Output ~ 0
+RAWU
+Text GLabel 850  775  0    50   Input ~ 0
+MOFU
+Text GLabel 2775  900  0    50   Input ~ 0
+MD0
+Text GLabel 4700  950  2    50   Output ~ 0
+SEJA
+Text GLabel 1250  1025  0    50   Input ~ 0
+NYDY
+Text GLabel 4700  1225  2    50   Output ~ 0
+TUXE
+Text GLabel 1650  1275  0    50   Input ~ 0
+NYXU
+Text GLabel 2775  1500  0    50   Input ~ 0
+MD0
+Text GLabel 4700  1500  2    50   Output ~ 0
+LOTY
+Text GLabel 4700  1800  2    50   Output ~ 0
+LAKY
+Text GLabel 6175  1950  2    50   Output ~ 0
+POZO
+Text GLabel 5350  2200  0    50   Input ~ 0
+MD1
+Text GLabel 7250  2250  2    50   Output ~ 0
+SENO
+Text GLabel 8200  2250  0    50   Input ~ 0
+P10_B
+Text GLabel 3600  2325  2    50   Output ~ 0
+PYZO
+Text GLabel 8200  2450  0    50   Input ~ 0
+TUXE
+Text GLabel 9800  2450  0    50   Input ~ 0
+LAKY
+Text GLabel 2775  2500  0    50   Input ~ 0
+MD2
+Text GLabel 8200  2500  0    50   Input ~ 0
+SEJ
+Text GLabel 9800  2500  0    50   Input ~ 0
+LOTY
+Text GLabel 4700  2525  2    50   Output ~ 0
+SURE
+Text GLabel 7250  2525  2    50   Output ~ 0
+SOLY
+Text GLabel 8200  2525  0    50   Input ~ 0
+CLKPIPE
+Text GLabel 9800  2525  0    50   Input ~ 0
+CLKPIPE
+Text GLabel 4700  2825  2    50   Output ~ 0
+RUCE
+Text GLabel 5350  2825  0    50   Input ~ 0
+MD1
+Text GLabel 7250  2825  2    50   Output ~ 0
+NEXA
+Text GLabel 8200  2825  0    50   Input ~ 0
+SOLY
+Text GLabel 9800  2825  0    50   Input ~ 0
+NYXO
+Text GLabel 8200  2850  0    50   Input ~ 0
+SENO
+Text GLabel 9800  2850  0    50   Input ~ 0
+NEXA
+Text GLabel 2775  3100  0    50   Input ~ 0
+MD2
+Text GLabel 4700  3100  2    50   Output ~ 0
+LUTU
+Text GLabel 7250  3100  2    50   Output ~ 0
+NYXO
+Text GLabel 8200  3175  0    50   Input ~ 0
+RUCE
+Text GLabel 9800  3175  0    50   Input ~ 0
+LOTO
+Text GLabel 8200  3225  0    50   Input ~ 0
+SURE
+Text GLabel 9800  3225  0    50   Input ~ 0
+LUTU
+Text GLabel 4700  3375  2    50   Output ~ 0
+LOTO
+Text GLabel 6175  3475  2    50   Output ~ 0
+POXA
+Text GLabel 8200  3550  0    50   Input ~ 0
+RYJA
+Text GLabel 9800  3550  0    50   Input ~ 0
+LYDU
+Text GLabel 8200  3600  0    50   Input ~ 0
+SEBO
+Text GLabel 9800  3600  0    50   Input ~ 0
+LUJA
+Text GLabel 5350  3675  0    50   Input ~ 0
+MD3
+Text GLabel 7250  3725  2    50   Output ~ 0
+SEBO
+Text GLabel 3600  3825  2    50   Output ~ 0
+PULO
+Text GLabel 8200  3925  0    50   Input ~ 0
+RUTO
+Text GLabel 9800  3925  0    50   Input ~ 0
+MYVY
+Text GLabel 8200  3950  0    50   Input ~ 0
+SUCA
+Text GLabel 9800  3950  0    50   Input ~ 0
+MOSY
+Text GLabel 2725  4000  0    50   Input ~ 0
+MD4
+Text GLabel 7250  4000  2    50   Output ~ 0
+RYJA
+Text GLabel 4700  4050  2    50   Output ~ 0
+SUCA
+Text GLabel 5350  4275  0    50   Input ~ 0
+MD3
+Text GLabel 7250  4275  2    50   Output ~ 0
+LUJA
+Text GLabel 8200  4275  0    50   Input ~ 0
+RAJA
+Text GLabel 9800  4275  0    50   Input ~ 0
+LODO
+Text GLabel 4700  4325  2    50   Output ~ 0
+RUTO
+Text GLabel 8200  4325  0    50   Input ~ 0
+SYWE
+Text GLabel 9800  4325  0    50   Input ~ 0
+LERU
+Text GLabel 2725  4575  0    50   Input ~ 0
+MD4
+Text GLabel 7250  4575  2    50   Output ~ 0
+LYDU
+Text GLabel 4700  4600  2    50   Output ~ 0
+MOSY
+Text GLabel 8200  4650  0    50   Input ~ 0
+RAJO
+Text GLabel 9800  4650  0    50   Input ~ 0
+NUTE
+Text GLabel 8200  4700  0    50   Input ~ 0
+SUPU
+Text GLabel 9800  4700  0    50   Input ~ 0
+NYHA
+Text GLabel 4700  4900  2    50   Output ~ 0
+MYVY
+Text GLabel 6175  5025  2    50   Output ~ 0
+POJU
+Text GLabel 8200  5025  0    50   Input ~ 0
+RAGA
+Text GLabel 9075  5025  2    50   Output ~ 0
+BG_PIX_B_7
+Text GLabel 9800  5025  0    50   Input ~ 0
+NAJA
+Text GLabel 10675  5025  2    50   Output ~ 0
+BG_PIX_A_7
+Text GLabel 8200  5050  0    50   Input ~ 0
+RYJY
+Text GLabel 9800  5050  0    50   Input ~ 0
+NADY
+Text GLabel 5350  5225  0    50   Input ~ 0
+MD5
+Text GLabel 7250  5250  2    50   Output ~ 0
+SYWE
+Text GLabel 3550  5350  2    50   Output ~ 0
+POWY
+Text GLabel 2725  5500  0    50   Input ~ 0
+MD6
+Text GLabel 4700  5550  2    50   Output ~ 0
+SUPU
+Text GLabel 7250  5550  2    50   Output ~ 0
+RAJA
+Text GLabel 4700  5825  2    50   Output ~ 0
+RAJO
+Text GLabel 5350  5825  0    50   Input ~ 0
+MD5
+Text GLabel 7250  5825  2    50   Output ~ 0
+LERU
+Text GLabel 1700  5925  0    50   Input ~ 0
+NYXU
+Text GLabel 2725  6125  0    50   Input ~ 0
+MD6
+Text GLabel 4700  6125  2    50   Output ~ 0
+NYHA
+Text GLabel 7250  6125  2    50   Output ~ 0
+LODO
+Text GLabel 4700  6400  2    50   Output ~ 0
+NUTE
+Text GLabel 6175  6475  2    50   Output ~ 0
+PYJU
+Text GLabel 5350  6700  0    50   Input ~ 0
+MD7
+Text GLabel 7250  6725  2    50   Output ~ 0
+RYJY
+Text GLabel 7250  7025  2    50   Output ~ 0
+RAGA
+Text GLabel 5350  7300  0    50   Input ~ 0
+MD7
+Text GLabel 7250  7300  2    50   Output ~ 0
+NADY
+Text GLabel 7250  7575  2    50   Output ~ 0
+NAJA
+$Comp
+L DMG-CPU:inverter LESO
+U 1 1 5EBF1757
+P 1125 775
+F 0 "LESO" H 1055 867 25  0000 C CNN
+F 1 "inverter" H 1115 678 25  0001 C CNN
+F 2 "" H 1125 775 25  0001 C CNN
+F 3 "" H 1125 775 25  0001 C CNN
+	1    1125 775
+	1    0    0    -1
+$EndComp
+$Comp
+L DMG-CPU:inverter AJAR
+U 1 1 5EBF1757
+P 1525 775
+F 0 "AJAR" H 1455 867 25  0000 C CNN
+F 1 "inverter" H 1515 678 25  0001 C CNN
+F 2 "" H 1525 775 25  0001 C CNN
+F 3 "" H 1525 775 25  0001 C CNN
+	1    1525 775
+	1    0    0    -1
+$EndComp
+$Comp
+L DMG-CPU:inverter LABU
+U 1 1 5EBF1757
+P 1925 775
+F 0 "LABU" H 1855 867 25  0000 C CNN
+F 1 "inverter" H 1915 678 25  0001 C CNN
+F 2 "" H 1925 775 25  0001 C CNN
+F 3 "" H 1925 775 25  0001 C CNN
+	1    1925 775
+	1    0    0    -1
+$EndComp
+$Comp
+L DMG-CPU:inverter TOSA
+U 1 1 5EBF1757
+P 3750 900
+F 0 "TOSA" H 3680 992 25  0000 C CNN
+F 1 "inverter" H 3740 803 25  0001 C CNN
+F 2 "" H 3750 900 25  0001 C CNN
+F 3 "" H 3750 900 25  0001 C CNN
+	1    3750 900
+	1    0    0    -1
+$EndComp
+$Comp
+L DMG-CPU:inverter METE
+U 1 1 5EBF1757
+P 1525 1025
+F 0 "METE" H 1455 1117 25  0000 C CNN
+F 1 "inverter" H 1515 928 25  0001 C CNN
+F 2 "" H 1525 1025 25  0001 C CNN
+F 3 "" H 1525 1025 25  0001 C CNN
+	1    1525 1025
+	1    0    0    -1
+$EndComp
+$Comp
+L DMG-CPU:inverter LOMA
+U 1 1 5EBF1757
+P 1925 1025
+F 0 "LOMA" H 1855 1117 25  0000 C CNN
+F 1 "inverter" H 1915 928 25  0001 C CNN
+F 2 "" H 1925 1025 25  0001 C CNN
+F 3 "" H 1925 1025 25  0001 C CNN
+	1    1925 1025
+	1    0    0    -1
+$EndComp
+$Comp
+L DMG-CPU:inverter LOZE
+U 1 1 5EBF1757
+P 1925 1275
+F 0 "LOZE" H 1855 1367 25  0000 C CNN
+F 1 "inverter" H 1915 1178 25  0001 C CNN
+F 2 "" H 1925 1275 25  0001 C CNN
+F 3 "" H 1925 1275 25  0001 C CNN
+	1    1925 1275
+	1    0    0    -1
+$EndComp
+$Comp
+L DMG-CPU:inverter LUHE
+U 1 1 5EBF1757
+P 3750 1475
+F 0 "LUHE" H 3680 1567 25  0000 C CNN
+F 1 "inverter" H 3740 1378 25  0001 C CNN
+F 2 "" H 3750 1475 25  0001 C CNN
+F 3 "" H 3750 1475 25  0001 C CNN
+	1    3750 1475
+	1    0    0    -1
+$EndComp
+$Comp
+L DMG-CPU:inverter RUCO
+U 1 1 5EBF1757
+P 6325 2200
+F 0 "RUCO" H 6255 2292 25  0000 C CNN
+F 1 "inverter" H 6315 2103 25  0001 C CNN
+F 2 "" H 6325 2200 25  0001 C CNN
+F 3 "" H 6325 2200 25  0001 C CNN
+	1    6325 2200
+	1    0    0    -1
+$EndComp
+$Comp
+L DMG-CPU:inverter TYCE
+U 1 1 5EBF1757
+P 3750 2500
+F 0 "TYCE" H 3680 2592 25  0000 C CNN
+F 1 "inverter" H 3740 2403 25  0001 C CNN
+F 2 "" H 3750 2500 25  0001 C CNN
+F 3 "" H 3750 2500 25  0001 C CNN
+	1    3750 2500
+	1    0    0    -1
+$EndComp
+$Comp
+L DMG-CPU:inverter NOLY
+U 1 1 5EBF1757
+P 6325 2775
+F 0 "NOLY" H 6255 2867 25  0000 C CNN
+F 1 "inverter" H 6315 2678 25  0001 C CNN
+F 2 "" H 6325 2775 25  0001 C CNN
+F 3 "" H 6325 2775 25  0001 C CNN
+	1    6325 2775
+	1    0    0    -1
+$EndComp
+$Comp
+L DMG-CPU:inverter LEKE
+U 1 1 5EBF1757
+P 3750 3050
+F 0 "LEKE" H 3680 3142 25  0000 C CNN
+F 1 "inverter" H 3740 2953 25  0001 C CNN
+F 2 "" H 3750 3050 25  0001 C CNN
+F 3 "" H 3750 3050 25  0001 C CNN
+	1    3750 3050
+	1    0    0    -1
+$EndComp
+$Comp
+L DMG-CPU:inverter REVY
+U 1 1 5EBF1757
+P 6325 3675
+F 0 "REVY" H 6255 3767 25  0000 C CNN
+F 1 "inverter" H 6315 3578 25  0001 C CNN
+F 2 "" H 6325 3675 25  0001 C CNN
+F 3 "" H 6325 3675 25  0001 C CNN
+	1    6325 3675
+	1    0    0    -1
+$EndComp
+$Comp
+L DMG-CPU:inverter RYGA
+U 1 1 5EBF1757
+P 3750 4000
+F 0 "RYGA" H 3680 4092 25  0000 C CNN
+F 1 "inverter" H 3740 3903 25  0001 C CNN
+F 2 "" H 3750 4000 25  0001 C CNN
+F 3 "" H 3750 4000 25  0001 C CNN
+	1    3750 4000
+	1    0    0    -1
+$EndComp
+$Comp
+L DMG-CPU:inverter LOMY
+U 1 1 5EBF1757
+P 6325 4250
+F 0 "LOMY" H 6255 4342 25  0000 C CNN
+F 1 "inverter" H 6315 4153 25  0001 C CNN
+F 2 "" H 6325 4250 25  0001 C CNN
+F 3 "" H 6325 4250 25  0001 C CNN
+	1    6325 4250
+	1    0    0    -1
+$EndComp
+$Comp
+L DMG-CPU:inverter LALA
+U 1 1 5EBF1757
+P 3750 4575
+F 0 "LALA" H 3680 4667 25  0000 C CNN
+F 1 "inverter" H 3740 4478 25  0001 C CNN
+F 2 "" H 3750 4575 25  0001 C CNN
+F 3 "" H 3750 4575 25  0001 C CNN
+	1    3750 4575
+	1    0    0    -1
+$EndComp
+$Comp
+L DMG-CPU:inverter RYLE
+U 1 1 5EBF1757
+P 6325 5225
+F 0 "RYLE" H 6255 5317 25  0000 C CNN
+F 1 "inverter" H 6315 5128 25  0001 C CNN
+F 2 "" H 6325 5225 25  0001 C CNN
+F 3 "" H 6325 5225 25  0001 C CNN
+	1    6325 5225
+	1    0    0    -1
+$EndComp
+$Comp
+L DMG-CPU:inverter RAPU
+U 1 1 5EBF1757
+P 3750 5500
+F 0 "RAPU" H 3680 5592 25  0000 C CNN
+F 1 "inverter" H 3740 5403 25  0001 C CNN
+F 2 "" H 3750 5500 25  0001 C CNN
+F 3 "" H 3750 5500 25  0001 C CNN
+	1    3750 5500
+	1    0    0    -1
+$EndComp
+$Comp
+L DMG-CPU:inverter LOXA
+U 1 1 5EBF1757
+P 6325 5800
+F 0 "LOXA" H 6255 5892 25  0000 C CNN
+F 1 "inverter" H 6315 5703 25  0001 C CNN
+F 2 "" H 6325 5800 25  0001 C CNN
+F 3 "" H 6325 5800 25  0001 C CNN
+	1    6325 5800
+	1    0    0    -1
+$EndComp
+$Comp
+L DMG-CPU:inverter LUXA
+U 1 1 5EBF1757
+P 1975 5925
+F 0 "LUXA" H 1905 6017 25  0000 C CNN
+F 1 "inverter" H 1965 5828 25  0001 C CNN
+F 2 "" H 1975 5925 25  0001 C CNN
+F 3 "" H 1975 5925 25  0001 C CNN
+	1    1975 5925
+	1    0    0    -1
+$EndComp
+$Comp
+L DMG-CPU:inverter NEZE
+U 1 1 5EBF1757
+P 3750 6075
+F 0 "NEZE" H 3680 6167 25  0000 C CNN
+F 1 "inverter" H 3740 5978 25  0001 C CNN
+F 2 "" H 3750 6075 25  0001 C CNN
+F 3 "" H 3750 6075 25  0001 C CNN
+	1    3750 6075
+	1    0    0    -1
+$EndComp
+$Comp
+L DMG-CPU:inverter SOJA
+U 1 1 5EBF1757
+P 6325 6700
+F 0 "SOJA" H 6255 6792 25  0000 C CNN
+F 1 "inverter" H 6315 6603 25  0001 C CNN
+F 2 "" H 6325 6700 25  0001 C CNN
+F 3 "" H 6325 6700 25  0001 C CNN
+	1    6325 6700
+	1    0    0    -1
+$EndComp
+$Comp
+L DMG-CPU:inverter NOBO
+U 1 1 5EBF1757
+P 6325 7250
+F 0 "NOBO" H 6255 7342 25  0000 C CNN
+F 1 "inverter" H 6315 7153 25  0001 C CNN
+F 2 "" H 6325 7250 25  0001 C CNN
+F 3 "" H 6325 7250 25  0001 C CNN
+	1    6325 7250
+	1    0    0    -1
+$EndComp
+$Comp
+L DMG-CPU:nand_2 SEJA
+U 1 1 5EBF1757
+P 4325 950
+F 0 "SEJA" H 4255 1042 25  0000 C CNN
+F 1 "nand_2" H 4310 855 25  0001 C CNN
+F 2 "" H 4325 950 25  0001 C CNN
+F 3 "" H 4325 950 25  0001 C CNN
+	1    4325 950
+	1    0    0    -1
+$EndComp
+$Comp
+L DMG-CPU:nand_2 TUXE
+U 1 1 5EBF1757
+P 4325 1225
+F 0 "TUXE" H 4255 1317 25  0000 C CNN
+F 1 "nand_2" H 4310 1130 25  0001 C CNN
+F 2 "" H 4325 1225 25  0001 C CNN
+F 3 "" H 4325 1225 25  0001 C CNN
+	1    4325 1225
+	1    0    0    -1
+$EndComp
+$Comp
+L DMG-CPU:nand_2 LOTY
+U 1 1 5EBF1757
+P 4325 1500
+F 0 "LOTY" H 4255 1592 25  0000 C CNN
+F 1 "nand_2" H 4310 1405 25  0001 C CNN
+F 2 "" H 4325 1500 25  0001 C CNN
+F 3 "" H 4325 1500 25  0001 C CNN
+	1    4325 1500
+	1    0    0    -1
+$EndComp
+$Comp
+L DMG-CPU:nand_2 LAKY
+U 1 1 5EBF1757
+P 4325 1800
+F 0 "LAKY" H 4255 1892 25  0000 C CNN
+F 1 "nand_2" H 4310 1705 25  0001 C CNN
+F 2 "" H 4325 1800 25  0001 C CNN
+F 3 "" H 4325 1800 25  0001 C CNN
+	1    4325 1800
+	1    0    0    -1
+$EndComp
+$Comp
+L DMG-CPU:nand_2 SENO
+U 1 1 5EBF1757
+P 6900 2250
+F 0 "SENO" H 6830 2342 25  0000 C CNN
+F 1 "nand_2" H 6885 2155 25  0001 C CNN
+F 2 "" H 6900 2250 25  0001 C CNN
+F 3 "" H 6900 2250 25  0001 C CNN
+	1    6900 2250
+	1    0    0    -1
+$EndComp
+$Comp
+L DMG-CPU:nand_2 SURE
+U 1 1 5EBF1757
+P 4325 2525
+F 0 "SURE" H 4255 2617 25  0000 C CNN
+F 1 "nand_2" H 4310 2430 25  0001 C CNN
+F 2 "" H 4325 2525 25  0001 C CNN
+F 3 "" H 4325 2525 25  0001 C CNN
+	1    4325 2525
+	1    0    0    -1
+$EndComp
+$Comp
+L DMG-CPU:nand_2 SOLY
+U 1 1 5EBF1757
+P 6900 2525
+F 0 "SOLY" H 6830 2617 25  0000 C CNN
+F 1 "nand_2" H 6885 2430 25  0001 C CNN
+F 2 "" H 6900 2525 25  0001 C CNN
+F 3 "" H 6900 2525 25  0001 C CNN
+	1    6900 2525
+	1    0    0    -1
+$EndComp
+$Comp
+L DMG-CPU:nand_2 RUCE
+U 1 1 5EBF1757
+P 4325 2825
+F 0 "RUCE" H 4255 2917 25  0000 C CNN
+F 1 "nand_2" H 4310 2730 25  0001 C CNN
+F 2 "" H 4325 2825 25  0001 C CNN
+F 3 "" H 4325 2825 25  0001 C CNN
+	1    4325 2825
+	1    0    0    -1
+$EndComp
+$Comp
+L DMG-CPU:nand_2 NEXA
+U 1 1 5EBF1757
+P 6900 2825
+F 0 "NEXA" H 6830 2917 25  0000 C CNN
+F 1 "nand_2" H 6885 2730 25  0001 C CNN
+F 2 "" H 6900 2825 25  0001 C CNN
+F 3 "" H 6900 2825 25  0001 C CNN
+	1    6900 2825
+	1    0    0    -1
+$EndComp
+$Comp
+L DMG-CPU:nand_2 LUTU
+U 1 1 5EBF1757
+P 4325 3100
+F 0 "LUTU" H 4255 3192 25  0000 C CNN
+F 1 "nand_2" H 4310 3005 25  0001 C CNN
+F 2 "" H 4325 3100 25  0001 C CNN
+F 3 "" H 4325 3100 25  0001 C CNN
+	1    4325 3100
+	1    0    0    -1
+$EndComp
+$Comp
+L DMG-CPU:nand_2 NYXO
+U 1 1 5EBF1757
+P 6900 3100
+F 0 "NYXO" H 6830 3192 25  0000 C CNN
+F 1 "nand_2" H 6885 3005 25  0001 C CNN
+F 2 "" H 6900 3100 25  0001 C CNN
+F 3 "" H 6900 3100 25  0001 C CNN
+	1    6900 3100
+	1    0    0    -1
+$EndComp
+$Comp
+L DMG-CPU:nand_2 LOTO
+U 1 1 5EBF1757
+P 4325 3375
+F 0 "LOTO" H 4255 3467 25  0000 C CNN
+F 1 "nand_2" H 4310 3280 25  0001 C CNN
+F 2 "" H 4325 3375 25  0001 C CNN
+F 3 "" H 4325 3375 25  0001 C CNN
+	1    4325 3375
+	1    0    0    -1
+$EndComp
+$Comp
+L DMG-CPU:nand_2 SEBO
+U 1 1 5EBF1757
+P 6900 3725
+F 0 "SEBO" H 6830 3817 25  0000 C CNN
+F 1 "nand_2" H 6885 3630 25  0001 C CNN
+F 2 "" H 6900 3725 25  0001 C CNN
+F 3 "" H 6900 3725 25  0001 C CNN
+	1    6900 3725
+	1    0    0    -1
+$EndComp
+$Comp
+L DMG-CPU:nand_2 RYJA
+U 1 1 5EBF1757
+P 6900 4000
+F 0 "RYJA" H 6830 4092 25  0000 C CNN
+F 1 "nand_2" H 6885 3905 25  0001 C CNN
+F 2 "" H 6900 4000 25  0001 C CNN
+F 3 "" H 6900 4000 25  0001 C CNN
+	1    6900 4000
+	1    0    0    -1
+$EndComp
+$Comp
+L DMG-CPU:nand_2 SUCA
+U 1 1 5EBF1757
+P 4325 4050
+F 0 "SUCA" H 4255 4142 25  0000 C CNN
+F 1 "nand_2" H 4310 3955 25  0001 C CNN
+F 2 "" H 4325 4050 25  0001 C CNN
+F 3 "" H 4325 4050 25  0001 C CNN
+	1    4325 4050
+	1    0    0    -1
+$EndComp
+$Comp
+L DMG-CPU:nand_2 LUJA
+U 1 1 5EBF1757
+P 6900 4275
+F 0 "LUJA" H 6830 4367 25  0000 C CNN
+F 1 "nand_2" H 6885 4180 25  0001 C CNN
+F 2 "" H 6900 4275 25  0001 C CNN
+F 3 "" H 6900 4275 25  0001 C CNN
+	1    6900 4275
+	1    0    0    -1
+$EndComp
+$Comp
+L DMG-CPU:nand_2 RUTO
+U 1 1 5EBF1757
+P 4325 4325
+F 0 "RUTO" H 4255 4417 25  0000 C CNN
+F 1 "nand_2" H 4310 4230 25  0001 C CNN
+F 2 "" H 4325 4325 25  0001 C CNN
+F 3 "" H 4325 4325 25  0001 C CNN
+	1    4325 4325
+	1    0    0    -1
+$EndComp
+$Comp
+L DMG-CPU:nand_2 LYDU
+U 1 1 5EBF1757
+P 6900 4575
+F 0 "LYDU" H 6830 4667 25  0000 C CNN
+F 1 "nand_2" H 6885 4480 25  0001 C CNN
+F 2 "" H 6900 4575 25  0001 C CNN
+F 3 "" H 6900 4575 25  0001 C CNN
+	1    6900 4575
+	1    0    0    -1
+$EndComp
+$Comp
+L DMG-CPU:nand_2 MOSY
+U 1 1 5EBF1757
+P 4325 4600
+F 0 "MOSY" H 4255 4692 25  0000 C CNN
+F 1 "nand_2" H 4310 4505 25  0001 C CNN
+F 2 "" H 4325 4600 25  0001 C CNN
+F 3 "" H 4325 4600 25  0001 C CNN
+	1    4325 4600
+	1    0    0    -1
+$EndComp
+$Comp
+L DMG-CPU:nand_2 MYVY
+U 1 1 5EBF1757
+P 4325 4900
+F 0 "MYVY" H 4255 4992 25  0000 C CNN
+F 1 "nand_2" H 4310 4805 25  0001 C CNN
+F 2 "" H 4325 4900 25  0001 C CNN
+F 3 "" H 4325 4900 25  0001 C CNN
+	1    4325 4900
+	1    0    0    -1
+$EndComp
+$Comp
+L DMG-CPU:nand_2 SWE
+U 1 1 5EBF1757
+P 6900 5250
+F 0 "SWE" H 6830 5342 25  0000 C CNN
+F 1 "nand_2" H 6885 5155 25  0001 C CNN
+F 2 "" H 6900 5250 25  0001 C CNN
+F 3 "" H 6900 5250 25  0001 C CNN
+	1    6900 5250
+	1    0    0    -1
+$EndComp
+$Comp
+L DMG-CPU:nand_2 SUPU
+U 1 1 5EBF1757
+P 4325 5550
+F 0 "SUPU" H 4255 5642 25  0000 C CNN
+F 1 "nand_2" H 4310 5455 25  0001 C CNN
+F 2 "" H 4325 5550 25  0001 C CNN
+F 3 "" H 4325 5550 25  0001 C CNN
+	1    4325 5550
+	1    0    0    -1
+$EndComp
+$Comp
+L DMG-CPU:nand_2 RAJA
+U 1 1 5EBF1757
+P 6900 5550
+F 0 "RAJA" H 6830 5642 25  0000 C CNN
+F 1 "nand_2" H 6885 5455 25  0001 C CNN
+F 2 "" H 6900 5550 25  0001 C CNN
+F 3 "" H 6900 5550 25  0001 C CNN
+	1    6900 5550
+	1    0    0    -1
+$EndComp
+$Comp
+L DMG-CPU:nand_2 RAJO
+U 1 1 5EBF1757
+P 4325 5825
+F 0 "RAJO" H 4255 5917 25  0000 C CNN
+F 1 "nand_2" H 4310 5730 25  0001 C CNN
+F 2 "" H 4325 5825 25  0001 C CNN
+F 3 "" H 4325 5825 25  0001 C CNN
+	1    4325 5825
+	1    0    0    -1
+$EndComp
+$Comp
+L DMG-CPU:nand_2 LERU
+U 1 1 5EBF1757
+P 6900 5825
+F 0 "LERU" H 6830 5917 25  0000 C CNN
+F 1 "nand_2" H 6885 5730 25  0001 C CNN
+F 2 "" H 6900 5825 25  0001 C CNN
+F 3 "" H 6900 5825 25  0001 C CNN
+	1    6900 5825
+	1    0    0    -1
+$EndComp
+$Comp
+L DMG-CPU:nand_2 NYHA
+U 1 1 5EBF1757
+P 4325 6125
+F 0 "NYHA" H 4255 6217 25  0000 C CNN
+F 1 "nand_2" H 4310 6030 25  0001 C CNN
+F 2 "" H 4325 6125 25  0001 C CNN
+F 3 "" H 4325 6125 25  0001 C CNN
+	1    4325 6125
+	1    0    0    -1
+$EndComp
+$Comp
+L DMG-CPU:nand_2 LODO
+U 1 1 5EBF1757
+P 6900 6125
+F 0 "LODO" H 6830 6217 25  0000 C CNN
+F 1 "nand_2" H 6885 6030 25  0001 C CNN
+F 2 "" H 6900 6125 25  0001 C CNN
+F 3 "" H 6900 6125 25  0001 C CNN
+	1    6900 6125
+	1    0    0    -1
+$EndComp
+$Comp
+L DMG-CPU:nand_2 NUTE
+U 1 1 5EBF1757
+P 4325 6400
+F 0 "NUTE" H 4255 6492 25  0000 C CNN
+F 1 "nand_2" H 4310 6305 25  0001 C CNN
+F 2 "" H 4325 6400 25  0001 C CNN
+F 3 "" H 4325 6400 25  0001 C CNN
+	1    4325 6400
+	1    0    0    -1
+$EndComp
+$Comp
+L DMG-CPU:nand_2 RYJY
+U 1 1 5EBF1757
+P 6900 6725
+F 0 "RYJY" H 6830 6817 25  0000 C CNN
+F 1 "nand_2" H 6885 6630 25  0001 C CNN
+F 2 "" H 6900 6725 25  0001 C CNN
+F 3 "" H 6900 6725 25  0001 C CNN
+	1    6900 6725
+	1    0    0    -1
+$EndComp
+$Comp
+L DMG-CPU:nand_2 RAGA
+U 1 1 5EBF1757
+P 6900 7025
+F 0 "RAGA" H 6830 7117 25  0000 C CNN
+F 1 "nand_2" H 6885 6930 25  0001 C CNN
+F 2 "" H 6900 7025 25  0001 C CNN
+F 3 "" H 6900 7025 25  0001 C CNN
+	1    6900 7025
+	1    0    0    -1
+$EndComp
+$Comp
+L DMG-CPU:nand_2 NADY
+U 1 1 5EBF1757
+P 6900 7300
+F 0 "NADY" H 6830 7392 25  0000 C CNN
+F 1 "nand_2" H 6885 7205 25  0001 C CNN
+F 2 "" H 6900 7300 25  0001 C CNN
+F 3 "" H 6900 7300 25  0001 C CNN
+	1    6900 7300
+	1    0    0    -1
+$EndComp
+$Comp
+L DMG-CPU:nand_2 NAJA
+U 1 1 5EBF1757
+P 6900 7575
+F 0 "NAJA" H 6830 7667 25  0000 C CNN
+F 1 "nand_2" H 6885 7480 25  0001 C CNN
+F 2 "" H 6900 7575 25  0001 C CNN
+F 3 "" H 6900 7575 25  0001 C CNN
+	1    6900 7575
+	1    0    0    -1
+$EndComp
+$Comp
+L DMG-CPU:dtff RAWU
+U 1 1 5EBF1757
+P 3175 850
+F 0 "RAWU" H 3105 955 25  0000 C CNN
+F 1 "dtff" H 3150 743 25  0001 C CNN
+F 2 "" H 3175 850 25  0001 C CNN
+F 3 "" H 3175 850 25  0001 C CNN
+	1    3175 850
+	1    0    0    -1
+$EndComp
+$Comp
+L DMG-CPU:dtff POZO
+U 1 1 5EBF1757
+P 5750 2150
+F 0 "POZO" H 5680 2255 25  0000 C CNN
+F 1 "dtff" H 5725 2043 25  0001 C CNN
+F 2 "" H 5750 2150 25  0001 C CNN
+F 3 "" H 5750 2150 25  0001 C CNN
+	1    5750 2150
+	1    0    0    -1
+$EndComp
+$Comp
+L DMG-CPU:dtff PYZO
+U 1 1 5EBF1757
+P 3175 2425
+F 0 "PYZO" H 3105 2530 25  0000 C CNN
+F 1 "dtff" H 3150 2318 25  0001 C CNN
+F 2 "" H 3175 2425 25  0001 C CNN
+F 3 "" H 3175 2425 25  0001 C CNN
+	1    3175 2425
+	1    0    0    -1
+$EndComp
+$Comp
+L DMG-CPU:dtff POXA
+U 1 1 5EBF1757
+P 5750 3600
+F 0 "POXA" H 5680 3705 25  0000 C CNN
+F 1 "dtff" H 5725 3493 25  0001 C CNN
+F 2 "" H 5750 3600 25  0001 C CNN
+F 3 "" H 5750 3600 25  0001 C CNN
+	1    5750 3600
+	1    0    0    -1
+$EndComp
+$Comp
+L DMG-CPU:dtff PULO
+U 1 1 5EBF1757
+P 3125 3925
+F 0 "PULO" H 3055 4030 25  0000 C CNN
+F 1 "dtff" H 3100 3818 25  0001 C CNN
+F 2 "" H 3125 3925 25  0001 C CNN
+F 3 "" H 3125 3925 25  0001 C CNN
+	1    3125 3925
+	1    0    0    -1
+$EndComp
+$Comp
+L DMG-CPU:dtff POJU
+U 1 1 5EBF1757
+P 5750 5150
+F 0 "POJU" H 5680 5255 25  0000 C CNN
+F 1 "dtff" H 5725 5043 25  0001 C CNN
+F 2 "" H 5750 5150 25  0001 C CNN
+F 3 "" H 5750 5150 25  0001 C CNN
+	1    5750 5150
+	1    0    0    -1
+$EndComp
+$Comp
+L DMG-CPU:dtff POWY
+U 1 1 5EBF1757
+P 3125 5450
+F 0 "POWY" H 3055 5555 25  0000 C CNN
+F 1 "dtff" H 3100 5343 25  0001 C CNN
+F 2 "" H 3125 5450 25  0001 C CNN
+F 3 "" H 3125 5450 25  0001 C CNN
+	1    3125 5450
+	1    0    0    -1
+$EndComp
+$Comp
+L DMG-CPU:dtff PYJU
+U 1 1 5EBF1757
+P 5750 6625
+F 0 "PYJU" H 5680 6730 25  0000 C CNN
+F 1 "dtff" H 5725 6518 25  0001 C CNN
+F 2 "" H 5750 6625 25  0001 C CNN
+F 3 "" H 5750 6625 25  0001 C CNN
+	1    5750 6625
+	1    0    0    -1
+$EndComp
+$Comp
+L DMG-CPU:dtff3 TOMY
+U 1 1 5EBF1757
+P 8700 2475
+F 0 "TOMY" H 8630 2580 25  0000 C CNN
+F 1 "dtff3" H 8675 2368 25  0001 C CNN
+F 2 "" H 8700 2475 25  0001 C CNN
+F 3 "" H 8700 2475 25  0001 C CNN
+	1    8700 2475
+	1    0    0    -1
+$EndComp
+$Comp
+L DMG-CPU:dtff3 MYDE
+U 1 1 5EBF1757
+P 10300 2475
+F 0 "MYDE" H 10230 2580 25  0000 C CNN
+F 1 "dtff3" H 10275 2368 25  0001 C CNN
+F 2 "" H 10300 2475 25  0001 C CNN
+F 3 "" H 10300 2475 25  0001 C CNN
+	1    10300 2475
+	1    0    0    -1
+$EndComp
+$Comp
+L DMG-CPU:dtff3 TACA
+U 1 1 5EBF1757
+P 8700 2825
+F 0 "TACA" H 8630 2930 25  0000 C CNN
+F 1 "dtff3" H 8675 2718 25  0001 C CNN
+F 2 "" H 8700 2825 25  0001 C CNN
+F 3 "" H 8700 2825 25  0001 C CNN
+	1    8700 2825
+	1    0    0    -1
+$EndComp
+$Comp
+L DMG-CPU:dtff3 NOZO
+U 1 1 5EBF1757
+P 10300 2825
+F 0 "NOZO" H 10230 2930 25  0000 C CNN
+F 1 "dtff3" H 10275 2718 25  0001 C CNN
+F 2 "" H 10300 2825 25  0001 C CNN
+F 3 "" H 10300 2825 25  0001 C CNN
+	1    10300 2825
+	1    0    0    -1
+$EndComp
+$Comp
+L DMG-CPU:dtff3 SADY
+U 1 1 5EBF1757
+P 8700 3200
+F 0 "SADY" H 8630 3305 25  0000 C CNN
+F 1 "dtff3" H 8675 3093 25  0001 C CNN
+F 2 "" H 8700 3200 25  0001 C CNN
+F 3 "" H 8700 3200 25  0001 C CNN
+	1    8700 3200
+	1    0    0    -1
+$EndComp
+$Comp
+L DMG-CPU:dtff3 MOJU
+U 1 1 5EBF1757
+P 10300 3200
+F 0 "MOJU" H 10230 3305 25  0000 C CNN
+F 1 "dtff3" H 10275 3093 25  0001 C CNN
+F 2 "" H 10300 3200 25  0001 C CNN
+F 3 "" H 10300 3200 25  0001 C CNN
+	1    10300 3200
+	1    0    0    -1
+$EndComp
+$Comp
+L DMG-CPU:dtff3 RYSA
+U 1 1 5EBF1757
+P 8700 3575
+F 0 "RYSA" H 8630 3680 25  0000 C CNN
+F 1 "dtff3" H 8675 3468 25  0001 C CNN
+F 2 "" H 8700 3575 25  0001 C CNN
+F 3 "" H 8700 3575 25  0001 C CNN
+	1    8700 3575
+	1    0    0    -1
+$EndComp
+$Comp
+L DMG-CPU:dtff3 MACU
+U 1 1 5EBF1757
+P 10300 3575
+F 0 "MACU" H 10230 3680 25  0000 C CNN
+F 1 "dtff3" H 10275 3468 25  0001 C CNN
+F 2 "" H 10300 3575 25  0001 C CNN
+F 3 "" H 10300 3575 25  0001 C CNN
+	1    10300 3575
+	1    0    0    -1
+$EndComp
+$Comp
+L DMG-CPU:dtff3 SOBO
+U 1 1 5EBF1757
+P 8700 3925
+F 0 "SOBO" H 8630 4030 25  0000 C CNN
+F 1 "dtff3" H 8675 3818 25  0001 C CNN
+F 2 "" H 8700 3925 25  0001 C CNN
+F 3 "" H 8700 3925 25  0001 C CNN
+	1    8700 3925
+	1    0    0    -1
+$EndComp
+$Comp
+L DMG-CPU:dtff3 NEPO
+U 1 1 5EBF1757
+P 10300 3925
+F 0 "NEPO" H 10230 4030 25  0000 C CNN
+F 1 "dtff3" H 10275 3818 25  0001 C CNN
+F 2 "" H 10300 3925 25  0001 C CNN
+F 3 "" H 10300 3925 25  0001 C CNN
+	1    10300 3925
+	1    0    0    -1
+$EndComp
+$Comp
+L DMG-CPU:dtff3 SETU
+U 1 1 5EBF1757
+P 8700 4300
+F 0 "SETU" H 8630 4405 25  0000 C CNN
+F 1 "dtff3" H 8675 4193 25  0001 C CNN
+F 2 "" H 8700 4300 25  0001 C CNN
+F 3 "" H 8700 4300 25  0001 C CNN
+	1    8700 4300
+	1    0    0    -1
+$EndComp
+$Comp
+L DMG-CPU:dtff3 MODU
+U 1 1 5EBF1757
+P 10300 4300
+F 0 "MODU" H 10230 4405 25  0000 C CNN
+F 1 "dtff3" H 10275 4193 25  0001 C CNN
+F 2 "" H 10300 4300 25  0001 C CNN
+F 3 "" H 10300 4300 25  0001 C CNN
+	1    10300 4300
+	1    0    0    -1
+$EndComp
+$Comp
+L DMG-CPU:dtff3 RALU
+U 1 1 5EBF1757
+P 8700 4675
+F 0 "RALU" H 8630 4780 25  0000 C CNN
+F 1 "dtff3" H 8675 4568 25  0001 C CNN
+F 2 "" H 8700 4675 25  0001 C CNN
+F 3 "" H 8700 4675 25  0001 C CNN
+	1    8700 4675
+	1    0    0    -1
+$EndComp
+$Comp
+L DMG-CPU:dtff3 NEDA
+U 1 1 5EBF1757
+P 10300 4675
+F 0 "NEDA" H 10230 4780 25  0000 C CNN
+F 1 "dtff3" H 10275 4568 25  0001 C CNN
+F 2 "" H 10300 4675 25  0001 C CNN
+F 3 "" H 10300 4675 25  0001 C CNN
+	1    10300 4675
+	1    0    0    -1
+$EndComp
+$Comp
+L DMG-CPU:dtff3 SOHU
+U 1 1 5EBF1757
+P 8700 5025
+F 0 "SOHU" H 8630 5130 25  0000 C CNN
+F 1 "dtff3" H 8675 4918 25  0001 C CNN
+F 2 "" H 8700 5025 25  0001 C CNN
+F 3 "" H 8700 5025 25  0001 C CNN
+	1    8700 5025
+	1    0    0    -1
+$EndComp
+$Comp
+L DMG-CPU:dtff3 PYBO
+U 1 1 5EBF1757
+P 10300 5025
+F 0 "PYBO" H 10230 5130 25  0000 C CNN
+F 1 "dtff3" H 10275 4918 25  0001 C CNN
+F 2 "" H 10300 5025 25  0001 C CNN
+F 3 "" H 10300 5025 25  0001 C CNN
+	1    10300 5025
+	1    0    0    -1
+$EndComp
+$Comp
+L DMG-CPU:dff2 LEGU
+U 1 1 5EBF1757
+P 3175 1475
+F 0 "LEGU" H 3113 1537 25  0000 C CNN
+F 1 "dff2" H 3125 1413 25  0001 C CNN
+F 2 "" H 3175 1475 25  0001 C CNN
+F 3 "" H 3175 1475 25  0001 C CNN
+	1    3175 1475
+	1    0    0    -1
+$EndComp
+$Comp
+L DMG-CPU:dff2 NUDU
+U 1 1 5EBF1757
+P 5725 2775
+F 0 "NUDU" H 5663 2837 25  0000 C CNN
+F 1 "dff2" H 5675 2713 25  0001 C CNN
+F 2 "" H 5725 2775 25  0001 C CNN
+F 3 "" H 5725 2775 25  0001 C CNN
+	1    5725 2775
+	1    0    0    -1
+$EndComp
+$Comp
+L DMG-CPU:dff2 MUKU
+U 1 1 5EBF1757
+P 3175 3050
+F 0 "MUKU" H 3113 3112 25  0000 C CNN
+F 1 "dff2" H 3125 2988 25  0001 C CNN
+F 2 "" H 3175 3050 25  0001 C CNN
+F 3 "" H 3175 3050 25  0001 C CNN
+	1    3175 3050
+	1    0    0    -1
+$EndComp
+$Comp
+L DMG-CPU:dff2 LUZO
+U 1 1 5EBF1757
+P 5725 4250
+F 0 "LUZO" H 5663 4312 25  0000 C CNN
+F 1 "dff2" H 5675 4188 25  0001 C CNN
+F 2 "" H 5725 4250 25  0001 C CNN
+F 3 "" H 5725 4250 25  0001 C CNN
+	1    5725 4250
+	1    0    0    -1
+$EndComp
+$Comp
+L DMG-CPU:dff2 MEGU
+U 1 1 5EBF1757
+P 3100 4525
+F 0 "MEGU" H 3038 4587 25  0000 C CNN
+F 1 "dff2" H 3050 4463 25  0001 C CNN
+F 2 "" H 3100 4525 25  0001 C CNN
+F 3 "" H 3100 4525 25  0001 C CNN
+	1    3100 4525
+	1    0    0    -1
+$EndComp
+$Comp
+L DMG-CPU:dff2 MYJY
+U 1 1 5EBF1757
+P 5725 5800
+F 0 "MYJY" H 5663 5862 25  0000 C CNN
+F 1 "dff2" H 5675 5738 25  0001 C CNN
+F 2 "" H 5725 5800 25  0001 C CNN
+F 3 "" H 5725 5800 25  0001 C CNN
+	1    5725 5800
+	1    0    0    -1
+$EndComp
+$Comp
+L DMG-CPU:dff2 NASA
+U 1 1 5EBF1757
+P 3100 6075
+F 0 "NASA" H 3038 6137 25  0000 C CNN
+F 1 "dff2" H 3050 6013 25  0001 C CNN
+F 2 "" H 3100 6075 25  0001 C CNN
+F 3 "" H 3100 6075 25  0001 C CNN
+	1    3100 6075
+	1    0    0    -1
+$EndComp
+$Comp
+L DMG-CPU:dff2 NEFO
+U 1 1 5EBF1757
+P 5725 7250
+F 0 "NEFO" H 5663 7312 25  0000 C CNN
+F 1 "dff2" H 5675 7188 25  0001 C CNN
+F 2 "" H 5725 7250 25  0001 C CNN
+F 3 "" H 5725 7250 25  0001 C CNN
+	1    5725 7250
+	1    0    0    -1
+$EndComp
+Connection ~ 2475 850
+Connection ~ 3500 900
+Connection ~ 2250 1425
+Connection ~ 2200 1675
+Connection ~ 2200 2050
+Connection ~ 2425 2075
+Connection ~ 2375 2125
+Connection ~ 2475 2175
+Connection ~ 2250 2200
+Connection ~ 6075 2200
+Connection ~ 2425 2375
+Connection ~ 2475 2450
+Connection ~ 3500 2500
+Connection ~ 2375 2700
+Connection ~ 8300 2900
+Connection ~ 9900 2900
+Connection ~ 2250 3025
+Connection ~ 2200 3275
+Connection ~ 8300 3275
+Connection ~ 9900 3275
+Connection ~ 2425 3550
+Connection ~ 2375 3600
+Connection ~ 2475 3625
+Connection ~ 8300 3625
+Connection ~ 9900 3625
+Connection ~ 2200 3675
+Connection ~ 6075 3675
+Connection ~ 2250 3725
+Connection ~ 2425 3875
+Connection ~ 2475 3950
+Connection ~ 8300 4000
+Connection ~ 9900 4000
+Connection ~ 2375 4200
+Connection ~ 8300 4375
+Connection ~ 9900 4375
+Connection ~ 2250 4500
+Connection ~ 2200 4725
+Connection ~ 8300 4725
+Connection ~ 9900 4725
+Connection ~ 2425 5100
+Connection ~ 2375 5150
+Connection ~ 2475 5175
+Connection ~ 2250 5225
+Connection ~ 6075 5225
+Connection ~ 2200 5275
+Connection ~ 2425 5375
+Connection ~ 2475 5475
+Connection ~ 2375 5675
+Connection ~ 2250 6050
+Connection ~ 2200 6275
+Connection ~ 6075 6700
+Connection ~ 3975 1100
+Connection ~ 3975 1675
+Connection ~ 6525 2375
+Connection ~ 3975 2700
+Connection ~ 6525 2975
+Connection ~ 3975 3275
+Connection ~ 6525 3825
+Connection ~ 3975 4200
+Connection ~ 6525 4400
+Connection ~ 3975 4725
+Connection ~ 6525 5375
+Connection ~ 3975 5675
+Connection ~ 2375 5925
+Connection ~ 6525 6000
+Connection ~ 3975 6275
+Connection ~ 6525 6850
+Connection ~ 6525 7475
+Connection ~ 3450 4000
+Connection ~ 3450 5500
+Connection ~ 2425 775
+Connection ~ 3500 1475
+Connection ~ 8350 2250
+Connection ~ 8300 2525
+Connection ~ 9900 2525
+Connection ~ 6075 2775
+Connection ~ 3500 3075
+Connection ~ 3500 4000
+Connection ~ 6075 4250
+Connection ~ 3500 4575
+Connection ~ 3500 5500
+Connection ~ 6075 5800
+Connection ~ 3500 6075
+Connection ~ 6075 7250
+Wire Wire Line
+	7250 4575 7050 4575
+Wire Wire Line
+	8550 4950 8850 4650
+Wire Wire Line
+	8300 2900 8300 3275
+Wire Wire Line
+	7250 6125 7050 6125
+Wire Wire Line
+	6075 4250 6175 4250
+Wire Wire Line
+	8550 3850 8850 3550
+Wire Wire Line
+	6750 2875 6525 2975
+Wire Wire Line
+	3025 925 2775 900
+Wire Wire Line
+	2200 3275 2200 2050
+Wire Wire Line
+	6525 6850 2375 5925
+Wire Wire Line
+	2425 3875 2425 5100
+Wire Wire Line
+	3325 2500 3500 2500
+Wire Wire Line
+	6075 5225 6175 5025
+Wire Wire Line
+	4175 3425 3500 3075
+Wire Wire Line
+	5600 3525 2425 3550
+Wire Wire Line
+	2425 3550 2425 3875
+Wire Wire Line
+	3450 5500 3550 5350
+Wire Wire Line
+	6750 3950 6525 3825
+Wire Wire Line
+	8550 3550 8200 3550
+Wire Wire Line
+	2375 2125 6525 2375
+Wire Wire Line
+	2775 1500 3025 1500
+Wire Wire Line
+	5600 3575 2475 3625
+Wire Wire Line
+	10450 3550 10150 3850
+Wire Wire Line
+	2375 4200 3975 4200
+Wire Wire Line
+	3975 3275 2200 3275
+Wire Wire Line
+	7250 3100 7050 3100
+Wire Wire Line
+	10150 4000 9900 4000
+Wire Wire Line
+	6075 2200 6175 2200
+Wire Wire Line
+	3975 4200 4175 4275
+Wire Wire Line
+	8200 4325 8550 4325
+Wire Wire Line
+	7050 6125 7250 6125
+Wire Wire Line
+	8550 4225 8850 3900
+Wire Wire Line
+	2250 4500 2950 4500
+Wire Wire Line
+	1700 5925 1825 5925
+Wire Wire Line
+	6075 2775 6175 2775
+Wire Wire Line
+	6525 5375 6750 5500
+Wire Wire Line
+	7250 7300 7050 7300
+Wire Wire Line
+	10150 4600 10450 4275
+Wire Wire Line
+	3500 900 3325 925
+Wire Wire Line
+	4475 1225 4700 1225
+Wire Wire Line
+	2475 2175 2475 2450
+Wire Wire Line
+	2475 5175 2475 3950
+Wire Wire Line
+	10150 2500 9800 2500
+Wire Wire Line
+	6075 3675 5900 3675
+Wire Wire Line
+	6075 6700 6175 6475
+Wire Wire Line
+	4175 6350 3975 6275
+Wire Wire Line
+	3600 900 3500 900
+Wire Wire Line
+	8550 2800 8200 2825
+Wire Wire Line
+	2250 3725 2250 4500
+Wire Wire Line
+	1250 1025 1375 1025
+Wire Wire Line
+	10150 4225 10450 3900
+Wire Wire Line
+	8550 3225 8200 3225
+Wire Wire Line
+	8550 3275 8300 3275
+Wire Wire Line
+	3600 2325 3500 2500
+Wire Wire Line
+	6750 7250 6475 7250
+Wire Wire Line
+	2375 5925 2125 5925
+Wire Wire Line
+	8200 3550 8550 3550
+Wire Wire Line
+	4475 2825 4700 2825
+Wire Wire Line
+	6175 5225 6075 5225
+Wire Wire Line
+	8550 2400 8350 2250
+Wire Wire Line
+	8200 4700 8550 4700
+Wire Wire Line
+	8300 3275 8300 3625
+Wire Wire Line
+	7250 6725 7050 6725
+Wire Wire Line
+	5875 4225 6075 4250
+Wire Wire Line
+	3500 6075 3600 6075
+Wire Wire Line
+	6750 3775 6525 3825
+Wire Wire Line
+	2975 4000 2725 4000
+Wire Wire Line
+	2375 3600 2375 2700
+Wire Wire Line
+	2950 6050 2250 6050
+Wire Wire Line
+	2375 2125 2375 2700
+Wire Wire Line
+	6750 5600 6075 5225
+Wire Wire Line
+	9900 4000 9900 3625
+Wire Wire Line
+	2475 3625 2475 2450
+Wire Wire Line
+	8850 3900 8550 4225
+Wire Wire Line
+	2250 2200 2250 3025
+Wire Wire Line
+	6525 3825 6750 3775
+Wire Wire Line
+	3975 6275 4175 6350
+Wire Wire Line
+	2475 5175 5600 5125
+Wire Wire Line
+	4175 6175 3975 6275
+Wire Wire Line
+	2425 2375 3025 2350
+Wire Wire Line
+	5350 2200 5600 2225
+Wire Wire Line
+	10450 4275 10150 4600
+Wire Wire Line
+	3025 3025 2250 3025
+Wire Wire Line
+	3975 4725 2200 4725
+Wire Wire Line
+	9800 3225 10150 3225
+Wire Wire Line
+	10150 4750 9900 4725
+Wire Wire Line
+	2375 2700 3975 2700
+Wire Wire Line
+	2475 5475 2975 5425
+Wire Wire Line
+	9900 4375 9900 4725
+Wire Wire Line
+	8200 3925 8550 3900
+Wire Wire Line
+	4475 4050 4700 4050
+Wire Wire Line
+	8300 3625 8550 3650
+Wire Wire Line
+	10675 5025 10450 5000
+Wire Wire Line
+	4175 1450 3900 1475
+Wire Wire Line
+	2200 3675 2200 4725
+Wire Wire Line
+	2200 6275 3975 6275
+Wire Wire Line
+	8550 2850 8200 2850
+Wire Wire Line
+	2250 1425 2075 1025
+Wire Wire Line
+	4175 4850 3975 4725
+Wire Wire Line
+	4475 2525 4700 2525
+Wire Wire Line
+	3250 4550 3500 4575
+Wire Wire Line
+	2200 2050 2200 1675
+Wire Wire Line
+	10150 3225 9800 3225
+Wire Wire Line
+	9900 4725 9900 4375
+Wire Wire Line
+	6075 4250 6750 4625
+Wire Wire Line
+	1375 775 1275 775
+Wire Wire Line
+	3900 2500 4175 2475
+Wire Wire Line
+	3600 5500 3500 5500
+Wire Wire Line
+	8200 2500 8550 2500
+Wire Wire Line
+	3025 2500 2775 2500
+Wire Wire Line
+	6075 5800 6750 6175
+Wire Wire Line
+	6525 7475 2200 6275
+Wire Wire Line
+	5350 3675 5600 3675
+Wire Wire Line
+	4475 3375 4700 3375
+Wire Wire Line
+	3600 6075 3500 6075
+Wire Wire Line
+	5350 4275 5575 4275
+Wire Wire Line
+	8550 3500 8850 3175
+Wire Wire Line
+	8550 5050 8200 5050
+Wire Wire Line
+	2950 6100 2725 6125
+Wire Wire Line
+	4700 5550 4475 5550
+Wire Wire Line
+	2425 775 3025 775
+Wire Wire Line
+	6750 5775 6475 5800
+Wire Wire Line
+	6075 2200 6175 1950
+Wire Wire Line
+	3975 4200 2375 4200
+Wire Wire Line
+	6750 6175 6075 5800
+Wire Wire Line
+	2250 4500 2250 3725
+Wire Wire Line
+	2250 1425 2250 2200
+Wire Wire Line
+	8850 4650 8550 4950
+Wire Wire Line
+	3500 2500 4175 2875
+Wire Wire Line
+	6525 5375 6750 5300
+Wire Wire Line
+	6750 7075 6075 6700
+Wire Wire Line
+	10150 4650 9800 4650
+Wire Wire Line
+	6525 6000 6750 5875
+Wire Wire Line
+	2375 625 2475 850
+Wire Wire Line
+	5900 6700 6075 6700
+Wire Wire Line
+	9900 3625 10150 3650
+Wire Wire Line
+	2250 6050 5575 7225
+Wire Wire Line
+	5350 2825 5575 2800
+Wire Wire Line
+	10150 2550 9900 2525
+Wire Wire Line
+	3500 900 3600 900
+Wire Wire Line
+	6075 6700 6175 6700
+Wire Wire Line
+	2725 4000 2975 4000
+Wire Wire Line
+	4475 4600 4700 4600
+Wire Wire Line
+	8550 2750 8850 2450
+Wire Wire Line
+	7250 7025 7050 7025
+Wire Wire Line
+	7250 5250 7050 5250
+Wire Wire Line
+	2475 3950 2475 5175
+Wire Wire Line
+	6525 2375 6750 2475
+Wire Wire Line
+	4700 6125 4475 6125
+Wire Wire Line
+	8550 2900 8300 2900
+Wire Wire Line
+	2425 5375 5600 6550
+Wire Wire Line
+	6475 5225 6750 5200
+Wire Wire Line
+	2250 3025 2250 2200
+Wire Wire Line
+	3975 6275 2200 6275
+Wire Wire Line
+	1675 775 1775 775
+Wire Wire Line
+	5600 2125 2475 2175
+Wire Wire Line
+	5575 2750 2250 2200
+Wire Wire Line
+	3025 2350 2425 2375
+Wire Wire Line
+	3500 6075 4175 6450
+Wire Wire Line
+	3450 4000 3600 3825
+Wire Wire Line
+	6075 6700 6750 7075
+Wire Wire Line
+	1775 1025 1675 1025
+Wire Wire Line
+	3600 2500 3500 2500
+Wire Wire Line
+	1650 1275 1775 1275
+Wire Wire Line
+	6750 5500 6525 5375
+Wire Wire Line
+	8550 5100 8300 4725
+Wire Wire Line
+	6525 2975 2200 2050
+Wire Wire Line
+	4700 3100 4475 3100
+Wire Wire Line
+	6175 2200 6075 2200
+Wire Wire Line
+	4700 4325 4475 4325
+Wire Wire Line
+	4475 6125 4700 6125
+Wire Wire Line
+	2425 2375 2425 3550
+Wire Wire Line
+	9900 2525 9900 2900
+Wire Wire Line
+	7250 5825 7050 5825
+Wire Wire Line
+	9900 2525 10150 2550
+Wire Wire Line
+	10150 3550 9800 3550
+Wire Wire Line
+	6750 6675 6475 6700
+Wire Wire Line
+	2375 2700 2375 2125
+Wire Wire Line
+	2475 5475 5600 6600
+Wire Wire Line
+	3900 5500 4175 5500
+Wire Wire Line
+	4475 950 4700 950
+Wire Wire Line
+	8300 3625 8300 3275
+Wire Wire Line
+	8850 2450 8550 2750
+Wire Wire Line
+	2475 850 2475 2175
+Wire Wire Line
+	2200 6275 2200 5275
+Wire Wire Line
+	6750 4625 6075 4250
+Wire Wire Line
+	4175 1750 3975 1675
+Wire Wire Line
+	4700 950 4475 950
+Wire Wire Line
+	10450 2800 10150 3125
+Wire Wire Line
+	2425 3875 2975 3850
+Wire Wire Line
+	7250 4000 7050 4000
+Wire Wire Line
+	8200 2850 8550 2850
+Wire Wire Line
+	10150 3275 9900 3275
+Wire Wire Line
+	2425 2075 5600 2075
+Wire Wire Line
+	9900 4725 10150 4750
+Wire Wire Line
+	6175 3475 6075 3675
+Wire Wire Line
+	7050 2525 7250 2525
+Wire Wire Line
+	9900 2900 10150 2900
+Wire Wire Line
+	6525 6000 6750 6075
+Wire Wire Line
+	9800 4650 10150 4650
+Wire Wire Line
+	2200 3275 2200 3675
+Wire Wire Line
+	6750 2775 6475 2775
+Wire Wire Line
+	5350 6700 5600 6700
+Wire Wire Line
+	3325 3025 3500 3075
+Wire Wire Line
+	6075 5800 6175 5800
+Wire Wire Line
+	6525 7475 6750 7525
+Wire Wire Line
+	10150 2400 8350 2250
+Wire Wire Line
+	5600 3675 5350 3675
+Wire Wire Line
+	2425 3550 2425 2375
+Wire Wire Line
+	3450 5500 3275 5525
+Wire Wire Line
+	2250 5225 2250 6050
+Wire Wire Line
+	5600 5125 2475 5175
+Wire Wire Line
+	8300 4000 8300 3625
+Wire Wire Line
+	2975 5425 2475 5475
+Wire Wire Line
+	2975 5375 2425 5375
+Wire Wire Line
+	8550 3650 8300 3625
+Wire Wire Line
+	2425 775 2425 2075
+Wire Wire Line
+	8850 5000 9075 5025
+Wire Wire Line
+	3250 6050 3500 6075
+Wire Wire Line
+	10150 3900 9800 3925
+Wire Wire Line
+	8550 3900 8200 3925
+Wire Wire Line
+	6175 1950 6075 2200
+Wire Wire Line
+	6750 6075 6525 6000
+Wire Wire Line
+	8300 2525 8300 2900
+Wire Wire Line
+	6525 4400 2200 3675
+Wire Wire Line
+	8200 3225 8550 3225
+Wire Wire Line
+	6175 3675 6075 3675
+Wire Wire Line
+	3500 2500 3325 2500
+Wire Wire Line
+	3600 3825 3450 4000
+Wire Wire Line
+	7050 7025 7250 7025
+Wire Wire Line
+	6175 7250 6075 7250
+Wire Wire Line
+	2250 3725 5575 4225
+Wire Wire Line
+	9800 5025 10150 5000
+Wire Wire Line
+	4175 1175 3975 1100
+Wire Wire Line
+	2475 2175 5600 2125
+Wire Wire Line
+	8550 3600 8200 3600
+Wire Wire Line
+	4175 4275 3975 4200
+Wire Wire Line
+	3500 900 3725 700
+Wire Wire Line
+	5600 6700 5350 6700
+Wire Wire Line
+	4175 4650 3975 4725
+Wire Wire Line
+	7050 2250 7250 2250
+Wire Wire Line
+	2250 3725 2250 3025
+Wire Wire Line
+	9900 3625 9900 3275
+Wire Wire Line
+	8850 3175 8550 3500
+Wire Wire Line
+	2200 2050 2200 3275
+Wire Wire Line
+	6525 2375 6750 2300
+Wire Wire Line
+	4175 5600 3975 5675
+Wire Wire Line
+	10150 3175 9800 3175
+Wire Wire Line
+	6175 6700 6075 6700
+Wire Wire Line
+	2375 5925 2375 5675
+Wire Wire Line
+	6750 7625 6075 7250
+Wire Wire Line
+	2250 3025 3025 3025
+Wire Wire Line
+	2375 5150 2375 5675
+Wire Wire Line
+	2775 2500 3025 2500
+Wire Wire Line
+	2425 5375 2425 5100
+Wire Wire Line
+	5600 2225 5350 2200
+Wire Wire Line
+	9900 2900 9900 3275
+Wire Wire Line
+	2250 5225 5575 5775
+Wire Wire Line
+	6750 7525 6525 7475
+Wire Wire Line
+	9800 3600 10150 3600
+Wire Wire Line
+	7050 3100 7250 3100
+Wire Wire Line
+	9900 3275 10150 3275
+Wire Wire Line
+	3450 4000 3500 4000
+Wire Wire Line
+	6175 5025 6075 5225
+Wire Wire Line
+	2375 3600 2375 4200
+Wire Wire Line
+	2425 5375 2975 5375
+Wire Wire Line
+	2725 5500 2975 5525
+Wire Wire Line
+	6525 2975 6750 3050
+Wire Wire Line
+	6475 2200 6750 2200
+Wire Wire Line
+	8850 3550 8550 3850
+Wire Wire Line
+	6525 3825 2375 3600
+Wire Wire Line
+	10150 3125 10450 2800
+Wire Wire Line
+	8350 2250 8200 2250
+Wire Wire Line
+	5575 7225 2250 6050
+Wire Wire Line
+	2475 2450 2475 3625
+Wire Wire Line
+	3975 4725 4175 4650
+Wire Wire Line
+	2375 5925 6525 6850
+Wire Wire Line
+	6750 2200 6475 2200
+Wire Wire Line
+	4175 4000 3900 4000
+Wire Wire Line
+	4175 1000 3975 1100
+Wire Wire Line
+	3500 4000 4175 4375
+Wire Wire Line
+	2375 5675 2375 5925
+Wire Wire Line
+	4700 2825 4475 2825
+Wire Wire Line
+	975 775 850 775
+Wire Wire Line
+	9800 3950 10150 3950
+Wire Wire Line
+	7050 4575 7250 4575
+Wire Wire Line
+	4175 1850 3500 1475
+Wire Wire Line
+	5600 6600 2475 5475
+Wire Wire Line
+	5350 5225 5600 5225
+Wire Wire Line
+	4175 2475 3900 2500
+Wire Wire Line
+	6750 5200 6475 5225
+Wire Wire Line
+	2425 2075 2425 775
+Wire Wire Line
+	9900 4725 10150 5100
+Wire Wire Line
+	6750 2575 6075 2200
+Wire Wire Line
+	3900 4575 4175 4550
+Wire Wire Line
+	9900 2900 9900 2525
+Wire Wire Line
+	8550 4750 8300 4725
+Wire Wire Line
+	3325 925 3500 900
+Wire Wire Line
+	3025 1500 2775 1500
+Wire Wire Line
+	3500 4575 3250 4550
+Wire Wire Line
+	8300 4725 8300 4375
+Wire Wire Line
+	4175 3150 3975 3275
+Wire Wire Line
+	6525 7475 6750 7350
+Wire Wire Line
+	10150 2900 9900 2900
+Wire Wire Line
+	5900 3675 6075 3675
+Wire Wire Line
+	2425 3550 5600 3525
+Wire Wire Line
+	10450 3900 10150 4225
+Wire Wire Line
+	7250 2525 7050 2525
+Wire Wire Line
+	5600 5225 5350 5225
+Wire Wire Line
+	8300 4000 8550 4000
+Wire Wire Line
+	2775 3100 3025 3075
+Wire Wire Line
+	2250 5225 2250 4500
+Wire Wire Line
+	2425 775 2075 775
+Wire Wire Line
+	3975 3275 4175 3325
+Wire Wire Line
+	9800 4275 10150 4275
+Wire Wire Line
+	7050 5825 7250 5825
+Wire Wire Line
+	6075 2200 6750 2575
+Wire Wire Line
+	8300 4375 8550 4375
+Wire Wire Line
+	10450 3175 10150 3500
+Wire Wire Line
+	5350 5825 5575 5825
+Wire Wire Line
+	8300 2525 8550 2550
+Wire Wire Line
+	6525 4400 6750 4525
+Wire Wire Line
+	6475 3675 6750 3675
+Wire Wire Line
+	3500 2500 3600 2325
+Wire Wire Line
+	6525 5375 2375 5150
+Wire Wire Line
+	3450 5500 3500 5500
+Wire Wire Line
+	6475 7250 6750 7250
+Wire Wire Line
+	3500 3075 3325 3025
+Wire Wire Line
+	2475 2450 3025 2400
+Wire Wire Line
+	5575 7275 5350 7300
+Wire Wire Line
+	9900 3275 9900 3625
+Wire Wire Line
+	8300 4725 8550 5100
+Wire Wire Line
+	10150 2450 9800 2450
+Wire Wire Line
+	8550 2450 8200 2450
+Wire Wire Line
+	6075 6700 5900 6700
+Wire Wire Line
+	2775 900 3025 925
+Wire Wire Line
+	4175 4550 3900 4575
+Wire Wire Line
+	6750 2300 6525 2375
+Wire Wire Line
+	3975 1100 2375 2125
+Wire Wire Line
+	9800 2825 10150 2800
+Wire Wire Line
+	1375 1025 1250 1025
+Wire Wire Line
+	4175 6450 3500 6075
+Wire Wire Line
+	4700 3375 4475 3375
+Wire Wire Line
+	4475 5550 4700 5550
+Wire Wire Line
+	6175 4250 6075 4250
+Wire Wire Line
+	3975 3275 4175 3150
+Wire Wire Line
+	8200 4650 8550 4650
+Wire Wire Line
+	7050 7575 7250 7575
+Wire Wire Line
+	10150 5050 9800 5050
+Wire Wire Line
+	6175 6475 6075 6700
+Wire Wire Line
+	5875 2750 6075 2775
+Wire Wire Line
+	3500 5500 3600 5500
+Wire Wire Line
+	8350 2250 10150 2400
+Wire Wire Line
+	6750 3150 6075 2775
+Wire Wire Line
+	2125 5925 2375 5925
+Wire Wire Line
+	9900 3275 9900 2900
+Wire Wire Line
+	6075 5225 5900 5225
+Wire Wire Line
+	3275 4000 3450 4000
+Wire Wire Line
+	2950 4550 2725 4575
+Wire Wire Line
+	6075 7250 5875 7225
+Wire Wire Line
+	6750 4050 6075 3675
+Wire Wire Line
+	5600 5075 2425 5100
+Wire Wire Line
+	6525 2975 6750 2875
+Wire Wire Line
+	9900 4375 9900 4000
+Wire Wire Line
+	4175 5875 3500 5500
+Wire Wire Line
+	2250 2200 5575 2750
+Wire Wire Line
+	2375 4200 2375 5150
+Wire Wire Line
+	4700 1800 4475 1800
+Wire Wire Line
+	3500 6075 3250 6050
+Wire Wire Line
+	4175 6075 3900 6075
+Wire Wire Line
+	3025 825 2475 850
+Wire Wire Line
+	9900 4375 10150 4375
+Wire Wire Line
+	9800 3175 10150 3175
+Wire Wire Line
+	9900 2525 9800 2525
+Wire Wire Line
+	3975 4725 4175 4850
+Wire Wire Line
+	2475 3950 2475 3625
+Wire Wire Line
+	2725 4575 2950 4550
+Wire Wire Line
+	7050 6725 7250 6725
+Wire Wire Line
+	2375 2700 2375 3600
+Wire Wire Line
+	8300 4725 8550 4750
+Wire Wire Line
+	9075 5025 8850 5000
+Wire Wire Line
+	3500 4000 3600 4000
+Wire Wire Line
+	2375 5675 3975 5675
+Wire Wire Line
+	2250 1425 3025 1450
+Wire Wire Line
+	1275 775 1375 775
+Wire Wire Line
+	2475 850 2375 625
+Wire Wire Line
+	2200 6275 6525 7475
+Wire Wire Line
+	4475 1800 4700 1800
+Wire Wire Line
+	6075 3675 6175 3475
+Wire Wire Line
+	6750 4225 6475 4250
+Wire Wire Line
+	8550 2550 8300 2525
+Wire Wire Line
+	2200 1675 2200 2050
+Wire Wire Line
+	3975 1675 4175 1550
+Wire Wire Line
+	3975 5675 4175 5600
+Wire Wire Line
+	6750 2475 6525 2375
+Wire Wire Line
+	10150 5000 9800 5025
+Wire Wire Line
+	2425 5100 2425 5375
+Wire Wire Line
+	9800 2450 10150 2450
+Wire Wire Line
+	2075 1025 2250 1425
+Wire Wire Line
+	3025 1450 2250 1425
+Wire Wire Line
+	3500 4575 4175 4950
+Wire Wire Line
+	8200 3600 8550 3600
+Wire Wire Line
+	4475 3100 4700 3100
+Wire Wire Line
+	3025 3075 2775 3100
+Wire Wire Line
+	6075 5800 5875 5775
+Wire Wire Line
+	4700 4900 4475 4900
+Wire Wire Line
+	10150 4950 10450 4650
+Wire Wire Line
+	6750 3675 6475 3675
+Wire Wire Line
+	5875 5775 6075 5800
+Wire Wire Line
+	5900 5225 6075 5225
+Wire Wire Line
+	3900 1475 4175 1450
+Wire Wire Line
+	2475 2175 2475 850
+Wire Wire Line
+	3500 5500 3450 5500
+Wire Wire Line
+	6750 5875 6525 6000
+Wire Wire Line
+	8550 4000 8300 4000
+Wire Wire Line
+	3500 1475 3325 1450
+Wire Wire Line
+	8850 4275 8550 4600
+Wire Wire Line
+	6525 4400 6750 4325
+Wire Wire Line
+	8550 4650 8200 4650
+Wire Wire Line
+	10150 4275 9800 4275
+Wire Wire Line
+	3975 2700 2375 2700
+Wire Wire Line
+	8200 2250 8350 2250
+Wire Wire Line
+	6750 6975 6525 6850
+Wire Wire Line
+	10450 4650 10150 4950
+Wire Wire Line
+	2475 3625 5600 3575
+Wire Wire Line
+	9800 2525 9900 2525
+Wire Wire Line
+	2250 6050 2950 6050
+Wire Wire Line
+	8200 3950 8550 3950
+Wire Wire Line
+	4475 4325 4700 4325
+Wire Wire Line
+	3500 900 4175 1275
+Wire Wire Line
+	2200 3675 6525 4400
+Wire Wire Line
+	2200 2050 6525 2975
+Wire Wire Line
+	9800 5050 10150 5050
+Wire Wire Line
+	3975 1100 4175 1175
+Wire Wire Line
+	1675 1025 1775 1025
+Wire Wire Line
+	10150 2750 10450 2450
+Wire Wire Line
+	6525 2375 2375 2125
+Wire Wire Line
+	6475 4250 6750 4225
+Wire Wire Line
+	8300 2900 8300 2525
+Wire Wire Line
+	2475 5175 2475 5475
+Wire Wire Line
+	2200 3275 3975 3275
+Wire Wire Line
+	10150 5100 9900 4725
+Wire Wire Line
+	2375 5150 2375 4200
+Wire Wire Line
+	5350 7300 5575 7275
+Wire Wire Line
+	5600 2075 2425 2075
+Wire Wire Line
+	3025 775 2425 775
+Wire Wire Line
+	3500 5500 4175 5875
+Wire Wire Line
+	6525 6850 6750 6775
+Wire Wire Line
+	6750 3050 6525 2975
+Wire Wire Line
+	1825 5925 1700 5925
+Wire Wire Line
+	6075 5225 6750 5600
+Wire Wire Line
+	4700 2525 4475 2525
+Wire Wire Line
+	2950 4500 2250 4500
+Wire Wire Line
+	6075 7250 6750 7625
+Wire Wire Line
+	9800 2850 10150 2850
+Wire Wire Line
+	7050 4000 7250 4000
+Wire Wire Line
+	1775 1275 1650 1275
+Wire Wire Line
+	6075 2200 5900 2225
+Wire Wire Line
+	8200 4275 8550 4275
+Wire Wire Line
+	4475 5825 4700 5825
+Wire Wire Line
+	10150 3600 9800 3600
+Wire Wire Line
+	4700 5825 4475 5825
+Wire Wire Line
+	8300 4000 8300 4375
+Wire Wire Line
+	4175 4100 3975 4200
+Wire Wire Line
+	4175 5775 3975 5675
+Wire Wire Line
+	3900 3050 4175 3050
+Wire Wire Line
+	2475 2450 2475 2175
+Wire Wire Line
+	6750 6775 6525 6850
+Wire Wire Line
+	6475 6700 6750 6675
+Wire Wire Line
+	6075 2775 5875 2750
+Wire Wire Line
+	2975 3900 2475 3950
+Wire Wire Line
+	4700 6400 4475 6400
+Wire Wire Line
+	3275 5525 3450 5500
+Wire Wire Line
+	2375 5675 2375 5150
+Wire Wire Line
+	6750 4325 6525 4400
+Wire Wire Line
+	2475 850 3025 825
+Wire Wire Line
+	9900 3625 9900 4000
+Wire Wire Line
+	850 775 975 775
+Wire Wire Line
+	6750 4525 6525 4400
+Wire Wire Line
+	10450 2450 10150 2750
+Wire Wire Line
+	6075 3675 6175 3675
+Wire Wire Line
+	2200 4725 3975 4725
+Wire Wire Line
+	8200 2825 8550 2800
+Wire Wire Line
+	2200 1675 3975 1675
+Wire Wire Line
+	3975 1675 4175 1750
+Wire Wire Line
+	4700 4050 4475 4050
+Wire Wire Line
+	7050 5250 7250 5250
+Wire Wire Line
+	2425 2075 2425 2375
+Wire Wire Line
+	2475 3950 2975 3900
+Wire Wire Line
+	3975 5675 4175 5775
+Wire Wire Line
+	4700 4600 4475 4600
+Wire Wire Line
+	7050 7300 7250 7300
+Wire Wire Line
+	2425 5100 5600 5075
+Wire Wire Line
+	2200 4725 2200 5275
+Wire Wire Line
+	4175 2775 3975 2700
+Wire Wire Line
+	3325 1450 3500 1475
+Wire Wire Line
+	3500 4575 3600 4575
+Wire Wire Line
+	2725 6125 2950 6100
+Wire Wire Line
+	6475 5800 6750 5775
+Wire Wire Line
+	8300 3275 8300 2900
+Wire Wire Line
+	5575 4275 5350 4275
+Wire Wire Line
+	2200 5275 2200 4725
+Wire Wire Line
+	5575 5775 2250 5225
+Wire Wire Line
+	3975 2700 4175 2575
+Wire Wire Line
+	8550 4325 8200 4325
+Wire Wire Line
+	3600 1475 3500 1475
+Wire Wire Line
+	6175 5800 6075 5800
+Wire Wire Line
+	9900 4000 9900 4375
+Wire Wire Line
+	4700 1500 4475 1500
+Wire Wire Line
+	3600 4000 3500 4000
+Wire Wire Line
+	8550 3950 8200 3950
+Wire Wire Line
+	3500 1475 4175 1850
+Wire Wire Line
+	8200 3175 8550 3175
+Wire Wire Line
+	8300 4375 8300 4725
+Wire Wire Line
+	6175 2775 6075 2775
+Wire Wire Line
+	8300 2525 8200 2525
+Wire Wire Line
+	9800 4325 10150 4325
+Wire Wire Line
+	4475 6400 4700 6400
+Wire Wire Line
+	10150 4325 9800 4325
+Wire Wire Line
+	8200 5025 8550 5000
+Wire Wire Line
+	3500 3075 3600 3050
+Wire Wire Line
+	7250 7575 7050 7575
+Wire Wire Line
+	5875 7225 6075 7250
+Wire Wire Line
+	4175 4375 3500 4000
+Wire Wire Line
+	4475 1500 4700 1500
+Wire Wire Line
+	2200 3675 2200 3275
+Wire Wire Line
+	5575 4225 2250 3725
+Wire Wire Line
+	8850 2800 8550 3125
+Wire Wire Line
+	3600 4575 3500 4575
+Wire Wire Line
+	3975 1100 4175 1000
+Wire Wire Line
+	8550 3175 8200 3175
+Wire Wire Line
+	10150 2800 9800 2825
+Wire Wire Line
+	3975 1675 2200 1675
+Wire Wire Line
+	4700 1225 4475 1225
+Wire Wire Line
+	4175 5500 3900 5500
+Wire Wire Line
+	8550 5000 8200 5025
+Wire Wire Line
+	8300 2900 8550 2900
+Wire Wire Line
+	8200 2450 8550 2450
+Wire Wire Line
+	10450 5000 10675 5025
+Wire Wire Line
+	2375 5150 6525 5375
+Wire Wire Line
+	6525 6000 2200 5275
+Wire Wire Line
+	9800 3550 10150 3550
+Wire Wire Line
+	7050 2825 7250 2825
+Wire Wire Line
+	5575 2800 5350 2825
+Wire Wire Line
+	3550 5350 3450 5500
+Wire Wire Line
+	6525 6850 6750 6975
+Wire Wire Line
+	9800 4700 10150 4700
+Wire Wire Line
+	6075 5225 6175 5225
+Wire Wire Line
+	4175 3325 3975 3275
+Wire Wire Line
+	6075 7250 6175 7250
+Wire Wire Line
+	4175 4950 3500 4575
+Wire Wire Line
+	10150 3850 10450 3550
+Wire Wire Line
+	2075 1275 2200 1675
+Wire Wire Line
+	2375 2125 3975 1100
+Wire Wire Line
+	2250 6050 2250 5225
+Wire Wire Line
+	2075 775 2425 775
+Wire Wire Line
+	2200 5275 2200 6275
+Wire Wire Line
+	8550 4375 8300 4375
+Wire Wire Line
+	10150 3650 9900 3625
+Wire Wire Line
+	2375 4200 2375 3600
+Wire Wire Line
+	10150 3950 9800 3950
+Wire Wire Line
+	8350 2250 8550 2400
+Wire Wire Line
+	3975 4200 4175 4100
+Wire Wire Line
+	3600 3050 3500 3075
+Wire Wire Line
+	8550 4275 8200 4275
+Wire Wire Line
+	2250 4500 2250 5225
+Wire Wire Line
+	7250 2250 7050 2250
+Wire Wire Line
+	10150 3500 10450 3175
+Wire Wire Line
+	8550 4700 8200 4700
+Wire Wire Line
+	6075 2775 6750 3150
+Wire Wire Line
+	2250 2200 2250 1425
+Wire Wire Line
+	8200 2525 8300 2525
+Wire Wire Line
+	2975 5525 2725 5500
+Wire Wire Line
+	3500 4000 3450 4000
+Wire Wire Line
+	6075 4250 5875 4225
+Wire Wire Line
+	9800 3925 10150 3900
+Wire Wire Line
+	7050 4275 7250 4275
+Wire Wire Line
+	4175 1275 3500 900
+Wire Wire Line
+	8550 4600 8850 4275
+Wire Wire Line
+	8200 5050 8550 5050
+Wire Wire Line
+	6075 3675 6750 4050
+Wire Wire Line
+	3900 900 4175 900
+Wire Wire Line
+	2200 1675 2075 1275
+Wire Wire Line
+	2425 3875 2425 3550
+Wire Wire Line
+	6750 5300 6525 5375
+Wire Wire Line
+	3900 4000 4175 4000
+Wire Wire Line
+	2975 3850 2425 3875
+Wire Wire Line
+	3975 5675 2375 5675
+Wire Wire Line
+	6750 7350 6525 7475
+Wire Wire Line
+	8550 2500 8200 2500
+Wire Wire Line
+	2425 5100 2425 3875
+Wire Wire Line
+	4175 2875 3500 2500
+Wire Wire Line
+	2250 3025 2250 3725
+Wire Wire Line
+	3975 6275 4175 6175
+Wire Wire Line
+	8300 4375 8300 4000
+Wire Wire Line
+	4175 3050 3900 3050
+Wire Wire Line
+	5900 2225 6075 2200
+Wire Wire Line
+	8300 3275 8550 3275
+Wire Wire Line
+	9800 2500 10150 2500
+Wire Wire Line
+	2200 5275 6525 6000
+Wire Wire Line
+	3450 4000 3275 4000
+Wire Wire Line
+	7250 3725 7050 3725
+Wire Wire Line
+	7050 3725 7250 3725
+Wire Wire Line
+	5575 5825 5350 5825
+Wire Wire Line
+	2375 3600 6525 3825
+Wire Wire Line
+	3975 2700 4175 2775
+Wire Wire Line
+	7250 4275 7050 4275
+Wire Wire Line
+	7050 5550 7250 5550
+Wire Wire Line
+	3025 2400 2475 2450
+Wire Wire Line
+	1775 775 1675 775
+Wire Wire Line
+	7250 5550 7050 5550
+Wire Wire Line
+	3500 1475 3600 1475
+Wire Wire Line
+	6525 3825 6750 3950
+Wire Wire Line
+	6475 2775 6750 2775
+Wire Wire Line
+	2425 2375 2425 2075
+Wire Wire Line
+	10150 4375 9900 4375
+Wire Wire Line
+	2200 4725 2200 3675
+Wire Wire Line
+	2475 3625 2475 3950
+Wire Wire Line
+	10150 4700 9800 4700
+Wire Wire Line
+	3500 3075 4175 3425
+Wire Wire Line
+	2475 5475 2475 5175
+Wire Wire Line
+	5600 6550 2425 5375
+Wire Wire Line
+	4175 900 3900 900
+Wire Wire Line
+	8300 3625 8300 4000
+Wire Wire Line
+	3725 700 3500 900
+Wire Wire Line
+	4175 1550 3975 1675
+Wire Wire Line
+	8550 3125 8850 2800
+Wire Wire Line
+	9900 4000 10150 4000
+Wire Wire Line
+	7250 2825 7050 2825
+Wire Wire Line
+	3900 6075 4175 6075
+Wire Wire Line
+	10150 2850 9800 2850
+Wire Wire Line
+	3500 2500 3600 2500
+Wire Wire Line
+	4475 4900 4700 4900
+Wire Wire Line
+	4175 2575 3975 2700
+NoConn ~ 3325 775
+NoConn ~ 5900 2075
+NoConn ~ 3325 2350
+NoConn ~ 5900 3525
+NoConn ~ 3275 3850
+NoConn ~ 5900 5075
+NoConn ~ 3275 5375
+NoConn ~ 5900 6550
+NoConn ~ 8850 2400
+NoConn ~ 10450 2400
+NoConn ~ 8850 2750
+NoConn ~ 10450 2750
+NoConn ~ 8850 3125
+NoConn ~ 10450 3125
+NoConn ~ 8850 3500
+NoConn ~ 10450 3500
+NoConn ~ 8850 3850
+NoConn ~ 10450 3850
+NoConn ~ 8850 4225
+NoConn ~ 10450 4225
+NoConn ~ 8850 4600
+NoConn ~ 10450 4600
+NoConn ~ 8850 4950
+NoConn ~ 10450 4950
+NoConn ~ 3325 1500
+NoConn ~ 5875 2800
+NoConn ~ 3325 3075
+NoConn ~ 5875 4275
+NoConn ~ 3250 4500
+NoConn ~ 5875 5825
+NoConn ~ 3250 6100
+NoConn ~ 5875 7275
+$EndSCHEMATC

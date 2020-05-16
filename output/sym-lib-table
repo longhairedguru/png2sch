@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name DMG-CPU)(type Legacy)(uri ${KIPRJMOD}/DMG-CPU.lib)(options "")(descr ""))
+)
