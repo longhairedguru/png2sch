@@ -10,6 +10,7 @@ import shape as sp
 import dictTranslator as dt
 import logger
 import kicad
+import jsonifier
 import schError
 
 gateTranslator = dt.DictTranslator(constants.GATE_DICT)
@@ -180,6 +181,7 @@ def usage():
     print('\t-r|--resize: scale factor for the kicad library file, defaults to 1.0')
     print('\t-z|--zoodir: speciies zoo directory, defaults to ./zoo')
     print('\t-o|--outputdir: specifies output directory, defaults to .')
+    print('\t-k|--kind: specifies output kind [sch (default), json]')
     print('\t-v|--verbose: sets verbosity [0 (default), 1, 2]')
     print('\nLibrary and symmbol table are generated in the output folder only if they do not exist already')
 
@@ -193,10 +195,11 @@ def main():
     grid = 50
     border = 500
     kicadlibresize = 1.0
+    kind = 'sch'
     nameprefix = 'U'
 
     try:
-        opts, args = getopt.getopt(sys.argv[1:], "ho:z:v:l:g:r:b:", ["help", "outputdir=", "zoodir=", "verbose=", "library=", "grid=", "resize=", "border="])
+        opts, args = getopt.getopt(sys.argv[1:], "ho:z:v:l:g:r:b:k:", ["help", "outputdir=", "zoodir=", "verbose=", "library=", "grid=", "resize=", "border=", "kind="])
     except getopt.GetoptError as err:
         print str(err)
         usage()
@@ -219,6 +222,10 @@ def main():
             border = int(a)
         elif o in ("-r", "--resize"):
             kicadlibresize = float(a)
+        elif o in ("-k", "--kind"):
+            kind = a.lower()
+            if not kind in constants.ALLOWED_KINDS:
+                assert False, "unhandled kind " + kind
         else:
             assert False, "unhandled option"
 
@@ -394,15 +401,19 @@ def main():
         print('## Wires not connected: ' + str(missing_o))
         print('## Wires connected but not matched: ' + str(missing_w))
 
-        if kicadlibresize != 1.0:
-            if verbose >= 1:
-                print('Resizing library...')
-            kicadlib.resize(kicadlibresize, grid)
+        if kind == 'sch':
+            print('Output to sch')
+            if kicadlibresize != 1.0:
+                if verbose >= 1:
+                    print('Resizing library...')
+                kicadlib.resize(kicadlibresize, grid)
 
-        print('Generating schema')
-        kicad.writeLib(outputdir, kicadlib, verbose)
-        kicad.writeSch(errors, outputdir, pagew, pageh, kicadlib, imageName.replace('.png', ''), objects, connections, unconnected, border, border, scalex, scaley, grid, verbose)
-
+            print('Generating schema')
+            kicad.writeLib(outputdir, kicadlib, verbose)
+            kicad.writeSch(errors, outputdir, pagew, pageh, kicadlib, imageName.replace('.png', ''), objects, connections, unconnected, border, border, scalex, scaley, grid, verbose)
+        elif kind == 'json':
+            print('Output to json')
+            jsonifier.writeSch(errors, outputdir, imageName.replace('.png', ''), objects, connections, unconnected, verbose)
         if len(errors) != 0:
             with open(outputdir + imageName.replace('.png', '_errors.txt'), 'w') as f:
                 print('Issues detected:')

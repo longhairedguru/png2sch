@@ -90,6 +90,8 @@ ALLOWED_GATE = ['A','B','C','D','E','F','G','H','I','J','K','L','M','N','O','P',
 
 ALLOWED_PAD = ['A','B','C','D','E','F','G','H','I','J','K','L','M','N','O','P','Q','R','S','T','U','V','W','X','Y','Z','0','1','2','3','4','5','6','7','8','9','z']
 
+ALLOWED_KINDS = ['sch', 'json']
+
 # http://www.fileformat.info/info/charset/UTF-8/list.htm?start=8192
 # ▀	UPPER HALF BLOCK (U+2580)	e29680
 # ▄	LOWER HALF BLOCK (U+2584)	e29684
